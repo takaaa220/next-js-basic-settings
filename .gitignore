@@ -1,0 +1,4 @@
+yarn-*.log
+
+.next
+node_modules
